@@ -5,7 +5,7 @@
 - [x] [Simple Made Easy - Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy)
 - [x] [Constraints Liberate, Liberties Constrain - Runar Bjarnason](https://www.youtube.com/watch?v=GqmsQeSzMdw)
 - [x] [Boundaries - Gary Bernhardt](https://www.destroyallsoftware.com/talks/boundaries)
-- [ ] [The Birth & Death of Javascript - Gary Bernhardt](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+- [x] [The Birth & Death of Javascript - Gary Bernhardt](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 - [x] [Real Software Engineering - Glenn Vanderburg](https://www.youtube.com/watch?v=RhdlBHHimeM)
 - [x] [The Database As a Value - Rich Hickey](https://www.infoq.com/presentations/Datomic-Database-Value#)
 - [ ] [Therapeutic Refactoring by Katrina Owen](https://www.youtube.com/watch?v=J4dlF0kcThQ)
