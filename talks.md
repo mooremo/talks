@@ -18,7 +18,7 @@
 - [x] [Let's be mainstream! - Evan Czaplicki](https://www.youtube.com/watch?v=oYk8CKH7OhE)
 - [x] [The Mess We're In - Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 - [x] [Transactions: myths, surprises and opportunities - Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
-- [ ] [The computer revolution hasnt happened yet - Alan Kay](https://www.youtube.com/watch?v=oKg1hTOQXoY)
+- [x] [The computer revolution hasnt happened yet - Alan Kay](https://www.youtube.com/watch?v=oKg1hTOQXoY)
 - [ ] [Why Greatness Cannot Be Planned: The Myth of the Objective - Kenneth Stanley](https://www.youtube.com/watch?v=dXQPL9GooyI)
 - [ ] [Why Leaders Eat Last - Simon Sinek](https://www.youtube.com/watch?v=ReRcHdeUG9Y)
 - [ ] [Patterns of Play - Linda Liukas](https://www.youtube.com/watch?v=vbboehbgAN8)
@@ -27,3 +27,4 @@
 - [ ] [Ideology - Gary Bernhardt](https://www.destroyallsoftware.com/talks/ideology)
 - [ ] [Are We There Yet? - Rich Hickey](https://www.youtube.com/watch?v=E4RarTAZ2AY)
 - [ ] [Oral Tradition in Software Engineering - Bryan Cantrill](https://www.youtube.com/watch?v=4PaWFYm0kEw)
+- [] [Things that Matter - Scott Meyers](https://www.youtube.com/watch?v=RT46MpK39rQ)
