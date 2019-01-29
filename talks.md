@@ -27,4 +27,5 @@
 - [ ] [Ideology - Gary Bernhardt](https://www.destroyallsoftware.com/talks/ideology)
 - [ ] [Are We There Yet? - Rich Hickey](https://www.youtube.com/watch?v=E4RarTAZ2AY)
 - [ ] [Oral Tradition in Software Engineering - Bryan Cantrill](https://www.youtube.com/watch?v=4PaWFYm0kEw)
-- [] [Things that Matter - Scott Meyers](https://www.youtube.com/watch?v=RT46MpK39rQ)
+- [ ] [Things that Matter - Scott Meyers](https://www.youtube.com/watch?v=RT46MpK39rQ)
+- [ ] [Lets Program A Banjo Grammar](https://www.deconstructconf.com/2018/ryan-herr-lets-program-a-banjo-grammar)
