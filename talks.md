@@ -1,7 +1,7 @@
 # Talks
 
 - [x] [Growing a Language - Guy Steele](https://www.youtube.com/watch?v=_ahvzDzKdB0)
-- [ ] [Inventing on Principle - Bret Victor](https://www.youtube.com/watch?v=PUv66718DII)
+- [x] [Inventing on Principle - Bret Victor](https://www.youtube.com/watch?v=PUv66718DII)
 - [x] [Simple Made Easy - Rich Hickey](https://www.infoq.com/presentations/Simple-Made-Easy)
 - [x] [Constraints Liberate, Liberties Constrain - Runar Bjarnason](https://www.youtube.com/watch?v=GqmsQeSzMdw)
 - [x] [Boundaries - Gary Bernhardt](https://www.destroyallsoftware.com/talks/boundaries)
